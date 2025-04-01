@@ -1,9 +1,9 @@
->Biologist.
+>Biologist
 
->Evolution of Social Insects.
+>PhD in Science
 
->Master in Science and PhD Candidate.
+>Evolution of Social Insects
 
->Comparative Genomics and -omics.
+>Comparative Genomics and -omics
 
 >Entomology_
